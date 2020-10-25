@@ -1,7 +1,7 @@
 ---
 title: "利用 VirtualBox 和 VS Code 手动搭建开发环境"
 date: 2019-05-27 14:01:13
-categories: "开发者手册"
+categories: "工具手册"
 tags: ["Visual Studio Code", "VirtualBox", "Ubuntu", "开发环境"]
 thumbnail:
 ---

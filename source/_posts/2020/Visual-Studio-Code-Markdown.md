@@ -1,7 +1,7 @@
 ---
 title: "Visual Studio Code 折腾记：Markdown 集成编辑环境"
 date: 2020-01-21 12:19:53
-categories: "开发者手册"
+categories: "工具手册"
 tags: ["Visual Studio Code", "Markdown"]
 thumbnail: https://i.loli.net/2020/01/21/vyfNtw7LkCMub9Y.png
 # deletelink: https://sm.ms/delete/fGDyzhkxXM5YqWZ1galeLiIBmS

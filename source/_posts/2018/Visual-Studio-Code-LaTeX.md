@@ -1,7 +1,7 @@
 ---
 title: "Visual Studio Code 折腾记：LaTeX 集成编辑环境"
 date: 2018-11-2 18:00:00
-categories: "开发者手册"
+categories: "工具手册"
 tags: ["Visual Studio Code", "LaTeX"]
 thumbnail: https://i.loli.net/2018/11/03/5bdc7e775468e.png
 ---
